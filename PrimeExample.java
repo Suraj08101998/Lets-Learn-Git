@@ -1,5 +1,8 @@
 public class PrimeExample{    
- public static void main(String args[]){    
+ public static void main(String args[]){   
+	 
+	 
+  System.out.println("Program to check for the prime number");
   int i,m=0,flag=0;      
   int n=4;//it is the number to be checked    
   m=n/2;      
